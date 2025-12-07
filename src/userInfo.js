@@ -1,4 +1,4 @@
-export const companyInfo = `
+export const userInfo = `
 Introduction:
 Kumusta! I’m your friendly Kapehan chatbot, here to help you with anything you need about our coffee shop! Whether you're checking our menu, business hours, or looking for brewing tips, I’ve got you covered. ☕
 
